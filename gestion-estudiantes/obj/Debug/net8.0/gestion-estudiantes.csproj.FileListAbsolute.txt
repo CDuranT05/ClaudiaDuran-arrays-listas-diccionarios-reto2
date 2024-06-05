@@ -1,0 +1,14 @@
+C:\Users\clau\source\repos\gestion-estudiantes\bin\Debug\net8.0\gestion-estudiantes.exe
+C:\Users\clau\source\repos\gestion-estudiantes\bin\Debug\net8.0\gestion-estudiantes.deps.json
+C:\Users\clau\source\repos\gestion-estudiantes\bin\Debug\net8.0\gestion-estudiantes.runtimeconfig.json
+C:\Users\clau\source\repos\gestion-estudiantes\bin\Debug\net8.0\gestion-estudiantes.dll
+C:\Users\clau\source\repos\gestion-estudiantes\bin\Debug\net8.0\gestion-estudiantes.pdb
+C:\Users\clau\source\repos\gestion-estudiantes\obj\Debug\net8.0\gestion-estudiantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\clau\source\repos\gestion-estudiantes\obj\Debug\net8.0\gestion-estudiantes.AssemblyInfoInputs.cache
+C:\Users\clau\source\repos\gestion-estudiantes\obj\Debug\net8.0\gestion-estudiantes.AssemblyInfo.cs
+C:\Users\clau\source\repos\gestion-estudiantes\obj\Debug\net8.0\gestion-estudiantes.csproj.CoreCompileInputs.cache
+C:\Users\clau\source\repos\gestion-estudiantes\obj\Debug\net8.0\gestion-estudiantes.dll
+C:\Users\clau\source\repos\gestion-estudiantes\obj\Debug\net8.0\refint\gestion-estudiantes.dll
+C:\Users\clau\source\repos\gestion-estudiantes\obj\Debug\net8.0\gestion-estudiantes.pdb
+C:\Users\clau\source\repos\gestion-estudiantes\obj\Debug\net8.0\gestion-estudiantes.genruntimeconfig.cache
+C:\Users\clau\source\repos\gestion-estudiantes\obj\Debug\net8.0\ref\gestion-estudiantes.dll
