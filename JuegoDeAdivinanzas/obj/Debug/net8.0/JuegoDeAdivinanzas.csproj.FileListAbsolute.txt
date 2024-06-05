@@ -1,0 +1,14 @@
+C:\Users\clau\source\repos\JuegoDeAdivinanzas\bin\Debug\net8.0\JuegoDeAdivinanzas.exe
+C:\Users\clau\source\repos\JuegoDeAdivinanzas\bin\Debug\net8.0\JuegoDeAdivinanzas.deps.json
+C:\Users\clau\source\repos\JuegoDeAdivinanzas\bin\Debug\net8.0\JuegoDeAdivinanzas.runtimeconfig.json
+C:\Users\clau\source\repos\JuegoDeAdivinanzas\bin\Debug\net8.0\JuegoDeAdivinanzas.dll
+C:\Users\clau\source\repos\JuegoDeAdivinanzas\bin\Debug\net8.0\JuegoDeAdivinanzas.pdb
+C:\Users\clau\source\repos\JuegoDeAdivinanzas\obj\Debug\net8.0\JuegoDeAdivinanzas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\clau\source\repos\JuegoDeAdivinanzas\obj\Debug\net8.0\JuegoDeAdivinanzas.AssemblyInfoInputs.cache
+C:\Users\clau\source\repos\JuegoDeAdivinanzas\obj\Debug\net8.0\JuegoDeAdivinanzas.AssemblyInfo.cs
+C:\Users\clau\source\repos\JuegoDeAdivinanzas\obj\Debug\net8.0\JuegoDeAdivinanzas.csproj.CoreCompileInputs.cache
+C:\Users\clau\source\repos\JuegoDeAdivinanzas\obj\Debug\net8.0\JuegoDeAdivinanzas.dll
+C:\Users\clau\source\repos\JuegoDeAdivinanzas\obj\Debug\net8.0\refint\JuegoDeAdivinanzas.dll
+C:\Users\clau\source\repos\JuegoDeAdivinanzas\obj\Debug\net8.0\JuegoDeAdivinanzas.pdb
+C:\Users\clau\source\repos\JuegoDeAdivinanzas\obj\Debug\net8.0\JuegoDeAdivinanzas.genruntimeconfig.cache
+C:\Users\clau\source\repos\JuegoDeAdivinanzas\obj\Debug\net8.0\ref\JuegoDeAdivinanzas.dll
