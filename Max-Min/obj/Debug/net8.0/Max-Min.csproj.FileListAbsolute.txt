@@ -1,0 +1,14 @@
+C:\Users\clau\source\repos\Max-Min\obj\Debug\net8.0\Max-Min.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\clau\source\repos\Max-Min\obj\Debug\net8.0\Max-Min.AssemblyInfoInputs.cache
+C:\Users\clau\source\repos\Max-Min\obj\Debug\net8.0\Max-Min.AssemblyInfo.cs
+C:\Users\clau\source\repos\Max-Min\obj\Debug\net8.0\Max-Min.csproj.CoreCompileInputs.cache
+C:\Users\clau\source\repos\Max-Min\bin\Debug\net8.0\Max-Min.exe
+C:\Users\clau\source\repos\Max-Min\bin\Debug\net8.0\Max-Min.deps.json
+C:\Users\clau\source\repos\Max-Min\bin\Debug\net8.0\Max-Min.runtimeconfig.json
+C:\Users\clau\source\repos\Max-Min\bin\Debug\net8.0\Max-Min.dll
+C:\Users\clau\source\repos\Max-Min\bin\Debug\net8.0\Max-Min.pdb
+C:\Users\clau\source\repos\Max-Min\obj\Debug\net8.0\Max-Min.dll
+C:\Users\clau\source\repos\Max-Min\obj\Debug\net8.0\refint\Max-Min.dll
+C:\Users\clau\source\repos\Max-Min\obj\Debug\net8.0\Max-Min.pdb
+C:\Users\clau\source\repos\Max-Min\obj\Debug\net8.0\Max-Min.genruntimeconfig.cache
+C:\Users\clau\source\repos\Max-Min\obj\Debug\net8.0\ref\Max-Min.dll

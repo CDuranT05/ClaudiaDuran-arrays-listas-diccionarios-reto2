@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\clau\\source\\repos\\JuegoDeAdivinanzas\\JuegoDeAdivinanzas.csproj",
+      "projectUniqueName": "C:\\Users\\clau\\Desktop\\mis repositorios\\ClaudiaDuran-arrays-listas-diccionarios\\JuegoDeAdivinanzas\\JuegoDeAdivinanzas.csproj",
       "projectName": "JuegoDeAdivinanzas",
-      "projectPath": "C:\\Users\\clau\\source\\repos\\JuegoDeAdivinanzas\\JuegoDeAdivinanzas.csproj",
+      "projectPath": "C:\\Users\\clau\\Desktop\\mis repositorios\\ClaudiaDuran-arrays-listas-diccionarios\\JuegoDeAdivinanzas\\JuegoDeAdivinanzas.csproj",
       "packagesPath": "C:\\Users\\clau\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\clau\\source\\repos\\JuegoDeAdivinanzas\\obj\\",
+      "outputPath": "C:\\Users\\clau\\Desktop\\mis repositorios\\ClaudiaDuran-arrays-listas-diccionarios\\JuegoDeAdivinanzas\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
